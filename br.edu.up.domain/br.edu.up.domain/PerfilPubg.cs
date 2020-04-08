@@ -6,14 +6,14 @@ namespace br.edu.up.domain
 {
     class PerfilPubg
     {
-        private int id { get; set; }
-        private string nomePerfil { get; set; }
-        private DateTime dataCriacao { get; set; }
-        private string vitorias { get; set; }
-        private string totalMortes { get; set; }
+        public int id { get; set; }
+        public string nomePerfil { get; set; }
+        public DateTime dataCriacao { get; set; }
+        public string vitorias { get; set; }
+        public string totalMortes { get; set; }
 
 
-        private int ClienteId { get; set; }
+        public int ClienteId { get; set; }
         public Cliente ClientePerfil { get; set; }
 
         void adicionarPerfil()

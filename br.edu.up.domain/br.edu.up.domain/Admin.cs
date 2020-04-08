@@ -8,9 +8,9 @@ namespace br.edu.up.domain
     {
         public Admin() { ApisPubg = new List<ApiPubg>(); }
 
-        private int id { get; set; }
-        private int nomeAdm { get; set; }
-        private string email { get; set; }
+        public int id { get; set; }
+        public int nomeAdm { get; set; }
+        public string email { get; set; }
 
         public Login Login { get; set; }
 

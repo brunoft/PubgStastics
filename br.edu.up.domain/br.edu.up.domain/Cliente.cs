@@ -12,11 +12,11 @@ namespace br.edu.up.domain
             ClassificacoesGerais = new List<ClassificacaoGeral>();
         }
 
-        private int id { get; set; }
-        private string nomeCliente { get; set; }
-        private DateTime dataNasc { get; set; }
-        private string sexo { get; set; }
-        private string email { get; set; }
+        public int id { get; set; }
+        public string nomeCliente { get; set; }
+        public DateTime dataNasc { get; set; }
+        public string sexo { get; set; }
+        public string email { get; set; }
 
 
         public Login MeuLogin { get; set; }

@@ -8,8 +8,8 @@ namespace br.edu.up.domain
     {
         public ApiPubg() { Clientes = new List<Cliente>(); }
 
-        private int id { get; set; }
-        private string keyApi { get; set; }
+        public int id { get; set; }
+        public string keyApi { get; set; }
         public int ClienteId { get; set; }
 
         public  Admin  adminApi { get; set; }
