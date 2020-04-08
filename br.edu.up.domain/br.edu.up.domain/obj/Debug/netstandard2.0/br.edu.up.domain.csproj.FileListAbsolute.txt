@@ -1,0 +1,5 @@
+C:\Users\Bruno.FT\Desktop\Desenvolvimento de software ll\Project - Library\br.edu.up.domain\br.edu.up.domain\bin\Debug\netstandard2.0\br.edu.up.domain.deps.json
+C:\Users\Bruno.FT\Desktop\Desenvolvimento de software ll\Project - Library\br.edu.up.domain\br.edu.up.domain\bin\Debug\netstandard2.0\br.edu.up.domain.dll
+C:\Users\Bruno.FT\Desktop\Desenvolvimento de software ll\Project - Library\br.edu.up.domain\br.edu.up.domain\obj\Debug\netstandard2.0\br.edu.up.domain.csprojAssemblyReference.cache
+C:\Users\Bruno.FT\Desktop\Desenvolvimento de software ll\Project - Library\br.edu.up.domain\br.edu.up.domain\obj\Debug\netstandard2.0\br.edu.up.domain.AssemblyInfoInputs.cache
+C:\Users\Bruno.FT\Desktop\Desenvolvimento de software ll\Project - Library\br.edu.up.domain\br.edu.up.domain\obj\Debug\netstandard2.0\br.edu.up.domain.AssemblyInfo.cs
